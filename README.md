@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Olá, eu sou o Gladimir! 👋
@@ -69,31 +68,47 @@ Gosto de transformar conceitos em experiências práticas: de consultas SQL e am
 ![IoT](https://img.shields.io/badge/Internet_das_Coisas-0F766E?style=flat-square)
 ![Impressão 3D](https://img.shields.io/badge/Impress%C3%A3o_3D-7C3AED?style=flat-square)
 
-## 🔬 Pesquisa e projetos
+## 🔬 Pesquisa, inovação e projetos
 
-### 🌅 Projeto Horizonte
+### 🏆 Pesquisa premiada — Latinoware 2025
 
-Participação em pesquisa aplicada voltada a uma **plataforma de capacitação corporativa com IA generativa, RAG e trilhas de aprendizagem**. Atuação em **modelagem de dados, arquitetura de persistência e integração com soluções de IA**.
+**🥇 1º lugar — Best Paper | Categoria Short Paper | 7º Latin.Science**
+
+**Trabalho:** *Sistema Inteligente para Monitoramento de Conversão de Vendas no Varejo Físico com Visão Computacional, IoT e Integração a Plataforma PDV*.
+
+Pesquisa desenvolvida em equipe, combinando **visão computacional, Internet das Coisas (IoT) e integração com sistemas de ponto de venda** para monitoramento inteligente de indicadores no varejo físico.
+
+[![Premiação Latinoware](https://img.shields.io/badge/Latinoware_2025-1%C2%BA_lugar_%7C_Best_Paper-B45309?style=for-the-badge)](https://latinoware.org/confira-os-trabalhos-premiados-na-7a-edicao-do-latin-science/)
+
+### 🌅 Projeto Horizonte — IA e aprendizagem corporativa
+
+Participação em pesquisa aplicada para o desenvolvimento de uma **plataforma de capacitação corporativa com inteligência artificial generativa, RAG e trilhas de aprendizagem**.
+
+Atuação em **modelagem de dados, arquitetura de persistência, PostgreSQL e integração com soluções de IA**, em colaboração com a equipe de pesquisa e desenvolvimento.
 
 [![Repositório Horizonte](https://img.shields.io/badge/Ver_projeto-Projeto_Horizonte-181717?style=for-the-badge&logo=github)](https://github.com/chiarorosa/projeto-horizonte)
-
-### 🧠 Visão computacional, IoT e varejo
-
-Participação em pesquisa sobre **monitoramento inteligente de conversão de vendas no varejo físico**, combinando visão computacional, dispositivos IoT e integração com plataformas de ponto de venda. Trabalho reconhecido em evento LatinoWare.
 
 ### ⚡ Projetos autorais e didáticos
 
 | Projeto | Descrição |
 |---|---|
 | [ESP32 IoT – Monitor de Eventos](https://github.com/gladimircc/ESP32-IoT-MonitorDeEventos) | Experimento didático com ESP32, eventos físicos e visualização de dados pela web. |
-| [RC Airplane Light System](https://github.com/gladimircc/RC-Airplane-Light-system) | Projeto de iluminação para aeromodelismo. |
+| [RC Airplane Light System](https://github.com/gladimircc/RC-Airplane-Light-system) | Projeto de iluminação eletrônica para aeromodelismo radiocontrolado. |
 | [Meu GitHub Pages](https://gladimircc.github.io/) | Espaço para conteúdos e experimentos publicados na web. |
 
-## 🎓 Ensino e compartilhamento de conhecimento
+## 🎓 Ensino e formação tecnológica
 
-Acredito no aprendizado por meio de **experimentação, investigação e projetos reais**. Em sala de aula, procuro aproximar teoria e prática, trabalhando desde os fundamentos da computação até bancos de dados, sistemas operacionais e dispositivos embarcados.
+Atuo na educação superior desde **1993**, procurando aproximar **fundamentação teórica, experimentação e aplicação prática**. Minha experiência docente abrange Banco de Dados, Fundamentos Computacionais, Lógica, Sistemas Operacionais, programação, Internet das Coisas e tecnologias embarcadas.
 
-**Temas frequentes:** modelagem ER • SQL • PostgreSQL • MySQL • Linux • lógica computacional • JavaScript • Arduino • ESP32 • sensores • automação.
+### 🧪 Aprendizagem baseada em projetos
+
+- **Banco de Dados:** modelagem ER, SQL, MySQL, PostgreSQL e MongoDB.
+- **Sistemas Operacionais:** Linux, Windows, virtualização, administração de ambientes e Docker.
+- **Fundamentos Computacionais:** lógica, algoritmos e introdução à programação.
+- **IoT e eletrônica:** Arduino, ESP32, sensores, atuadores, comunicação e automação.
+- **Prototipação:** robótica educacional, sistemas embarcados e impressão 3D.
+
+**Minha abordagem:** aprender, experimentar, investigar e compartilhar conhecimento, conectando a sala de aula aos desafios reais da tecnologia.
 
 ---
 
