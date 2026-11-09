@@ -70,9 +70,9 @@ Gosto de transformar conceitos em experiências práticas: de consultas SQL e am
 
 ## 🔬 Pesquisa, inovação e projetos
 
-### 🏆 Pesquisa premiada — Latinoware 2025
+### 🏆 Pesquisa premiada - Latinoware 2025
 
-**🥇 1º lugar — Best Paper | Categoria Short Paper | 7º Latin.Science**
+**🥇 1º lugar - Best Paper | Categoria Short Paper | 7º Latin.Science**
 
 **Trabalho:** *Sistema Inteligente para Monitoramento de Conversão de Vendas no Varejo Físico com Visão Computacional, IoT e Integração a Plataforma PDV*.
 
