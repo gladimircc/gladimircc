@@ -18,7 +18,7 @@
 
 Sou professor universitário e profissional de Tecnologia da Informação, com uma trajetória que combina **ensino, desenvolvimento de software, infraestrutura, pesquisa aplicada e projetos com eletrônica**.
 
-Atuo no **UniSENAC – Campus Pelotas**, onde trabalho com disciplinas como **Banco de Dados, Fundamentos Computacionais, Sistemas Operacionais e Internet das Coisas (IoT)**. Também sou servidor técnico-administrativo do **IFSul – Campus Pelotas**.
+Atuo no **UniSENAC – Campus Pelotas**, onde trabalho com disciplinas como **Banco de Dados, Fundamentos Computacionais, Sistemas Operacionais e Internet das Coisas (IoT)**.
 
 Gosto de transformar conceitos em experiências práticas: de consultas SQL e ambientes Linux a protótipos com **ESP32, Arduino, sensores, comunicação sem fio e automação**.
 
